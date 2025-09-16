@@ -1,3 +1,0 @@
-* 1 Please Click on Download Button for Download Update.
-* 2 Click on Extract Button.
-* 3 Click on Install Button to Finish Update Process.
